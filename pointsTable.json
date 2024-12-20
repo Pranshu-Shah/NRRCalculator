@@ -1,0 +1,74 @@
+{
+  "teams": [
+    {
+      "rank": 1,
+      "name": "Chennai Super Kings",
+      "acronym": "CSK",
+      "matches": 7,
+      "won": 5,
+      "lost": 2,
+      "nrr": 0.771,
+      "runs_scored": 1130,
+      "overs_faced": 133.1,
+      "runs_conceded": 1071,
+      "overs_bowled": 138.5,
+      "points": 10
+    },
+    {
+      "rank": 2,
+      "name": "Royal Challengers Bangalore",
+      "acronym": "RCB",
+      "matches": 7,
+      "won": 4,
+      "lost": 3,
+      "nrr": 0.597,
+      "runs_scored": 1217,
+      "overs_faced": 140,
+      "runs_conceded": 1066,
+      "overs_bowled": 131.4,
+      "points": 8
+    },
+    {
+      "rank": 3,
+      "name": "Delhi Capitals",
+      "acronym": "DC",
+      "matches": 7,
+      "won": 4,
+      "lost": 3,
+      "nrr": 0.319,
+      "runs_scored": 1085,
+      "overs_faced": 126,
+      "runs_conceded": 1136,
+      "overs_bowled": 137,
+      "points": 8
+    },
+    {
+      "rank": 4,
+      "name": "Rajasthan Royals",
+      "acronym": "RR",
+      "matches": 7,
+      "won": 3,
+      "lost": 4,
+      "nrr": 0.331,
+      "runs_scored": 1066,
+      "overs_faced": 128.2,
+      "runs_conceded": 1094,
+      "overs_bowled": 137.1,
+      "points": 6
+    },
+    {
+      "rank": 5,
+      "name": "Mumbai Indians",
+      "acronym": "MI",
+      "matches": 8,
+      "won": 2,
+      "lost": 6,
+      "nrr": -1.75,
+      "runs_scored": 1003,
+      "overs_faced": 155.2,
+      "runs_conceded": 1134,
+      "overs_bowled": 138.1,
+      "points": 4
+    }
+  ]
+}
